@@ -1,0 +1,12 @@
+📝 To-Do List App
+The To-Do List App is a simple and user-friendly web application designed to help users efficiently manage their daily tasks, this app allows you to:
+
+✅ Add new tasks to your list with a single click
+
+🗑️ Delete tasks when they are no longer needed
+
+✔️ Mark tasks as completed, making it easier to track your progress
+
+🔄 Automatically updates in real-time without page reloads
+
+Whether you're planning your day, managing a project, or just trying to stay organized, this To-Do List App offers a clean and responsive interface that works across devices. It's a great example of how HTML, CSS, and JavaScript can work together to create a functional and engaging user experience.
